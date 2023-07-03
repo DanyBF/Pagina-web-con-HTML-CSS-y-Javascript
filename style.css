@@ -20,11 +20,13 @@ body{
     display: grid;
     grid-template-columns: auto auto;
     margin: 10px 10px;
-
+    text-align: center;
 }
-
 img{
     width: 50%;
     max-width: 300px;
     min-width: 100px;
+}
+p{
+    padding: 0.5em;
 }

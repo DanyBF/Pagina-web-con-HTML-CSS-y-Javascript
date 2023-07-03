@@ -12,7 +12,7 @@ desc:'HTML'
 },
 ]
 let proyectos =document.querySelector('#proyectos');
-proyectos.style.background = 'red';
+
 
 function dinamico (src,desc) {
     let div = document.createElement("div");
@@ -20,6 +20,7 @@ function dinamico (src,desc) {
     img.src= src;
     let p = document.createElement("p");
     p.innerHTML= desc;
+    p.style.backgroundColor="red";
     div.appendChild(img);
     div.appendChild(p);
     proyectos.appendChild(div);

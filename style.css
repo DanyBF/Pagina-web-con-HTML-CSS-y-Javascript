@@ -12,9 +12,10 @@ body{
 
 }
 .title{
-    font-size: 60px;
+    font-size: 6vw;
     text-align: center;
-    padding-top: 2px;
+    padding: 2px;
+
 }
 #proyectos{
     display: grid;
@@ -29,4 +30,9 @@ img{
 }
 p{
     padding: 0.5em;
+}
+
+h1{
+    align-self: center;
+
 }

@@ -1,14 +1,14 @@
 const datos = [{
-    img: 'https://github.com/DanyBF/Pagina-web-con-HTML-CSS-y-Javascript/blob/main/archivos/file_type_html_icon_130541.png?raw=true',
+    img: 'https://media.istockphoto.com/id/1413514774/es/foto/dise%C3%B1o-de-iconos-html-3d-estilizado.jpg?s=612x612&w=0&k=20&c=xBDT2y5fQrmVpGSXyWbIdhKQXosFmugJAiqVRIZ2VtI=',
     desc:'HTML'
 },
 {
-    img: 'https://github.com/DanyBF/Pagina-web-con-HTML-CSS-y-Javascript/blob/main/archivos/CSS3_logo.svg.png?raw=true',
+    img: 'https://media.istockphoto.com/id/1413514596/es/foto/dise%C3%B1o-de-icono-css-3d-estilizado.jpg?s=612x612&w=0&k=20&c=grI6SNj9239-bNfzMFuySKWKEEtBmeULV1SEDspWv5g=',
     desc:'CSS'
 },
 {
-img: 'https://github.com/DanyBF/Pagina-web-con-HTML-CSS-y-Javascript/blob/main/archivos/file_type_html_icon_130541.png?raw=true',
-desc:'HTML'
+img: 'https://media.istockphoto.com/id/1413514720/es/foto/dise%C3%B1o-de-iconos-javascript-3d-estilizado.jpg?s=612x612&w=0&k=20&c=tuugEFb6bdJQXOQwNzpOxcQGBrCR734P_POMCmE7th0=',
+desc:'Javascript'
 },
 ]
 let proyectos =document.querySelector('#proyectos');
